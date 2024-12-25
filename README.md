@@ -14,10 +14,10 @@ Welcome to my GitHub profile! I'm passionate about web development, coding, and 
 
 ### 🌐 Connect with Me
 - **LinkedIn**: [www.linkedin.com/in/himanshrohilla)
-<!-- - **Twitter**: [Your Twitter Profile](link-to-twitter)
+- **Twitter**: [https://x.com/himansh_rohilla)
 - **Email**: [himanshurohill020305@gmail.com]
 
-### 📈 GitHub Stats
+<!-- ### 📈 GitHub Stats
 ![Your GitHub Stats](link-to-github-stats-image)
 
 ### ✨ Fun Facts

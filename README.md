@@ -1,16 +1,25 @@
-## Hi there 👋
+### 👋 Hi there, I'm Himanshu!
 
-<!--
-**HimanshRohilla/HimanshRohilla** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about web development, coding, and all things tech. Here, you'll find a collection of my projects, experiments, and contributions to the open-source community.
 
-Here are some ideas to get you started:
+### 🚀 About Me
+- **Web Developer**: Specializing in HTML, CSS, JavaScript, and React.
+- **Tech Enthusiast**: Always excited to explore new technologies and tools.
+- **Lifelong Learner**: Constantly expanding my knowledge and skills through online courses, tutorials, and hands-on projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ### 🌟 Projects
+- **Project 1**: [Project Name](link-to-project) - A brief description of what the project does.
+- **Project 2**: [Project Name](link-to-project) - A brief description of what the project does.
+- **Project 3**: [Project Name](link-to-project) - A brief description of what the project does. -->
+
+### 🌐 Connect with Me
+- **LinkedIn**: [www.linkedin.com/in/himanshrohilla)
+<!-- - **Twitter**: [Your Twitter Profile](link-to-twitter)
+- **Email**: [himanshurohill020305@gmail.com]
+
+### 📈 GitHub Stats
+![Your GitHub Stats](link-to-github-stats-image)
+
+### ✨ Fun Facts
+- I love [hobby or interest].
+- When I'm not coding, you can find me [activity you enjoy]. -->
